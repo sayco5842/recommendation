@@ -1,0 +1,19 @@
+### 추천상품 요청 API
+POST http://localhost:8080/musinsa/recommendation
+Content-Type: application/json
+
+{
+  "name": "김무신사",
+  "gender": "MALE",
+  "email": "kimmusinsa2@musinsa.com"
+}
+
+### 추천상품 요청 API
+POST http://localhost:8080/musinsa/recommendation
+Content-Type: application/json
+
+{
+  "name": "김무신사",
+  "gender": "MALE",
+  "email": "kimmusinsa2@musinsa.com"
+}
